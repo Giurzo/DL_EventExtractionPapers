@@ -39,6 +39,7 @@
 
 * ACL2021: **Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**
     * Authors: Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang
+    * code: [https://github.com/RunxinXu/GIT](https://github.com/RunxinXu/GIT)
 
 * ACL2021: **Document-level Event Extraction via Parallel Prediction Networks**
     * Authors: Hang Yang, Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao and Taifeng Wang
